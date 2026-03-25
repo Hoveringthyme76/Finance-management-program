@@ -5,8 +5,7 @@
 using namespace std;
  
 /*
-Use these equations for the mananging money program. Remember to use strictly classes, with a few bits of procedural programming when needed. Also make sure to create a README.
-That will help with clarity on this project. You can always try to create to program using only procedural stuff, but remember to keep in mind what the final result should look like.
+Equations used for mananging finances program.
 
 1. (Net income): Net income = gross income - taxes - deductions  
 2. (Monthly budget balance): Money left = income - (fixed expenses + variable expenses)
